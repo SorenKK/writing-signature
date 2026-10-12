@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+# never commit personal texts or workspaces
+workspace/
+writing-signature-workspace/
+*.pdf
+*.docx
+*.odt
+tests/tmp/
