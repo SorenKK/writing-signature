@@ -61,7 +61,7 @@ Your original texts never go into that folder. They stay in a private workspace 
 ## Install
 
 ```bash
-git clone https://github.com/<user>/writing-signature ~/.claude/skills/writing-signature
+git clone https://github.com/SorenKK/writing-signature ~/.claude/skills/writing-signature
 bash ~/.claude/skills/writing-signature/scripts/setup.sh en        # languages of your texts: en, it, or "en it"
 ```
 
